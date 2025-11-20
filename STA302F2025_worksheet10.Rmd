@@ -1,6 +1,6 @@
 ---
 title: "Module 10 Worksheet"
-author: "Prepared by: Katherine Daignault and the STA302 Teaching Team"
+author: "Prepared by: STA302 Teaching Team"
 output: pdf_document
 geometry: margin=0.5in
 urlcolor: blue
@@ -130,13 +130,13 @@ TYPE YOUR ANSWER BELOW:
 
 We can try to understand our results by looking at the descriptive statistics of both the training and test datasets. We can do this most easily using the `summary()` function which simply requires the dataset you want summarized as input.  
   
-Produce descriptive statistics for `train1` and `test1` using `describe()`. 
+Produce descriptive statistics for `train1` and `test1` using `describe()`. Afterwards, please comment out the lines of code producing the descriptive statistics, as they may cause issues with MarkUs.
 
 ```{r}
-# produce descriptive statistics for train1
+# produce descriptive statistics for train1, then comment out your code.
 
 
-# produce descriptive statistics for test1
+# produce descriptive statistics for test1, then comment out your code.
 
 ```
 
